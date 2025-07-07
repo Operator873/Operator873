@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Operator873</h1>
-<h3 align="center">A SysAdmin that meddles in scripting and PythonDev</h3>
+<h3 align="center">I'm a RHCSA, Linux nerd, and Ansible Guru. I dabble in Python, naturally.</h3>
 
 - 🔭 I’m currently working on [IRCord](https://github.com/Operator873/IRCord)
 
